@@ -6,6 +6,4 @@ Prérequis pour executer les notebooks:
     <a href="https://www.anaconda.com/downloads">Anaconda Distribution</a>
     qui installera directement ces paquets avec leur dépendances
   - OU utiliser le service mybinder pour les executer de manière interactive sur un serveur distant:
-    cliquer sur le lien [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fchatelain/ExemplesFLO/master)
-
-
+    cliquer sur le lien [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fchatelain/ExemplesFLO/master?urlpath=lab/tree/denoising_chirp_Wiener_smoothing.ipynb)
