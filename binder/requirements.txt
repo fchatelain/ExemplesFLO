@@ -6,3 +6,4 @@ pandas==0.23.4
 keras==2.2.5
 pillow==7.0.0
 ipympl==0.4.1
+spectrum==0.7.5
