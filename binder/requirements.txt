@@ -7,3 +7,4 @@ pillow==7.0.0
 ipympl==0.4.1
 pydotplus==2.0.2
 spectrum==0.7.5
+nbgitpuller
